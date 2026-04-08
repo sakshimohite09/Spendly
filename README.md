@@ -7,14 +7,21 @@ A simple and user-friendly Expense Tracker Web Application built using Flask (Py
 🚧 Project Status: Currently under development
 
 
-📌 Features
+📌 Features:
+
 ✅ Implemented
+ 
  Landing Page – Entry point of the application
+ 
  User Registration – New users can sign up
+ 
  User Login – Secure authentication system
 
 
 Backend: Python (Flask)
+
 Frontend: HTML, CSS, JavaScript
+
 Database: SQLite (via custom DB layer)
+
 Environment: Virtual Environment (venv)
