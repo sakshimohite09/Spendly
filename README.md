@@ -1,4 +1,4 @@
-**Expense Tracker Web Application**
+# **Expense Tracker Web Application**
 
 
 A simple and user-friendly Expense Tracker Web Application built using Flask (Python). This project helps users manage and track their daily expenses efficiently.
